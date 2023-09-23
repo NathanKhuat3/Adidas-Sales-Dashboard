@@ -9,6 +9,8 @@ The file has 4 main sheets, representing the 4 stages of the dashboard creation 
 *Analysis: Pivot tables are made here to conduct analysis on the dataset.
 *Dashboard: The dashboard is designed here using Excel visualization tools (graphs, shapes) and the analysis conducted on the backend.
 
+![Screenshot 2023-09-23 161418](https://github.com/NathanKhuat3/Adidas-Sales-Dashboard/assets/136769070/07e20a30-f3b6-4bd4-bd58-7135562a4be7)
+
 ### Dashboard Overview
 This interactive sales dashboard provides an overview of Adidas Sales in the United States and some basic analysis of sales, profit, products’ performance and more. Pivot tables, Charts, Slicers and other Excel tools were utilized to analyze and visualize insights from the dataset.
 
