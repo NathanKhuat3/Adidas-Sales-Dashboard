@@ -4,10 +4,10 @@
 The primary dataset is named “Adidas Sales Dataset”, created by HEEMALI CHAUDHARI and was retrieved from Kaggle. The dataset has 9652 rows and 14 columns, containing information about Adidas’ Sales such as total revenue, types of product sold, locations and more for the year 2020/2021.
 
 The file has 4 main sheets, representing the 4 stages of the dashboard creation process:
-*Raw Data Sales Adidas: The original dataset
-*Input Data: A copy of the original dataset that is used to prepare data for input into the dashboard. The checking process confirmed that the original dataset required no cleaning as there were no missing or duplicated values and no erroneous formatting.
-*Analysis: Pivot tables are made here to conduct analysis on the dataset.
-*Dashboard: The dashboard is designed here using Excel visualization tools (graphs, shapes) and the analysis conducted on the backend.
+* Raw Data Sales Adidas: The original dataset
+* Input Data: A copy of the original dataset that is used to prepare data for input into the dashboard. The checking process confirmed that the original dataset required no cleaning as there were no missing or duplicated values and no erroneous formatting.
+* Analysis: Pivot tables are made here to conduct analysis on the dataset.
+* Dashboard: The dashboard is designed here using Excel visualization tools (graphs, shapes) and the analysis conducted on the backend.
 
 ![Screenshot 2023-09-23 161610](https://github.com/NathanKhuat3/Adidas-Sales-Dashboard/assets/136769070/a9f7682b-894a-415b-b56d-44415ea3914e)
 
