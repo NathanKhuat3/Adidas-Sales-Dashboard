@@ -12,13 +12,13 @@ The file has 4 main sheets, representing the 4 stages of the dashboard creation 
 ### Dashboard Overview
 This interactive sales dashboard provides an overview of Adidas Sales in the United States and some basic analysis of sales, profit, products’ performance and more. Pivot tables, Charts, Slicers and other Excel tools were utilized to analyze and visualize insights from the dataset.
 
-_Slicers_ ==> slicers are used to filter data on elements such as: yearly, monthly, regions and retailers.
-_Total Sales and Total Profits_ ==> Showcase the total sales and total profits for Adidas as of 2020/2021.
-_Sales Methods Distribution_ ==> The doughnut chart illustrates the proportion for number of purchases by three main sales methods: In-store, Outlet and Online.
-_Sales Methods Distribution_ ==> The doughnut chart depicts the percentage of sales contributed by three main methods: In-store, Outlet and Online.
-_Sales_ ==> The line chart shows monthly sales
-_Product Performance_ ==> The upper bar chart displays total operating profits by 6 different product categories.
-_Products' Average Operating Margin_ ==> The lower bar chart demonstrates the average operating margin for each category of product.
+_Slicers_ ==> slicers are used to filter data on elements such as: yearly, monthly, regions and retailers.  
+_Total Sales and Total Profits_ ==> Showcase the total sales and total profits for Adidas as of 2020/2021.  
+_Sales Methods Distribution_ ==> The doughnut chart illustrates the proportion for number of purchases by three main sales methods: In-store, Outlet and Online.  
+_Sales Methods Distribution_ ==> The doughnut chart depicts the percentage of sales contributed by three main methods: In-store, Outlet and Online.  
+_Sales_ ==> The line chart shows monthly sales.    
+_Product Performance_ ==> The upper bar chart displays total operating profits by 6 different product categories.  
+_Products' Average Operating Margin_ ==> The lower bar chart demonstrates the average operating margin for each category of product.  
 
 ### Analysis
 5 main questions were investigated in the Analysis process.
